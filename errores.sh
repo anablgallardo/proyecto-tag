@@ -1,1 +1,1 @@
-ecoh Error de prueba
+echo Error de prueba corregido
